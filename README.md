@@ -29,7 +29,7 @@ The game is available on [**Hexawar.io**](https://hexawar.io).
 * **[📋 Summary](#-summary)**
 * **[🎮 How to play?](#-how-to-play)**
 * **[🛠️ Install](#%EF%B8%8F-install)**
-	* [📦 dependencies](#-dependencies)
+	* [📦 Dependencies](#-dependencies)
 	* [⚙️ Setup](#%EF%B8%8F-setup)
 	* [🚀 Run](#-run)
 * **[🙏 Credits](#-credits)**
@@ -72,7 +72,7 @@ You can also use them to attack other players and beat them in the global rankin
 
 # 🛠️ Install
 
-## 📦 dependencies
+## 📦 Dependencies
 
 * **[NodeJS](https://nodejs.org/en/)**
 * **[npm](https://www.npmjs.com)**
